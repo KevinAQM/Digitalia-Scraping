@@ -4,7 +4,7 @@ Web Scraping con BS y Scrapy
 BeautifulSoup --> Jupyter Notebook (*ipynb)
 
 Scrapy --> IDE Python (*py)
-pip install Scrapy
+*pip install Scrapy*
 ----------------------------------------
 
 MercadoLibre sin CLoudFlare, permite scrapping (200): https://checkforcloudflare.selesti.com/?q=https://www.mercadolibre.com.pe/
