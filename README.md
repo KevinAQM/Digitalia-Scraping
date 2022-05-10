@@ -3,7 +3,7 @@ Web Scraping con BS y Scrapy
 
 BeautifulSoup --> Jupyter Notebook (*ipynb)
 
-Scrapy --> IDE Python (*py) ("*pip install Scrapy*")
+Scrapy --> IDE Python (*py) (install package: "*pip install Scrapy*")
 
 ----------------------------------------
 
