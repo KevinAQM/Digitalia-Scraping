@@ -13,4 +13,6 @@ Ripley con CloudFlare, no permite scrapping (403): https://checkforcloudflare.se
 
 Linio con CloudFlare, no permite scrapping (403): https://checkforcloudflare.selesti.com/?q=https://www.linio.com.pe/
 
+----------------------------------------
+
 Bypassing CloudFlare in process...
